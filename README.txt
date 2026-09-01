@@ -1,11 +1,21 @@
-EXPLORE YOUR MEMORIES — FINAL WEBSITE
-Domain: www.exploreyourmemories.com
-WhatsApp: +91 82406 88144
+EXPLORE YOUR MEMORIES — UPDATED WEBSITE
 
-Pricing and package inclusions are based on the supplied Explore Your Memories booklet:
-Silver Frame ₹74,999/-
-Gold Frame ₹94,999/-
-Platinum Frame ₹1,24,999/-
+This version keeps the existing wedding photography website and adds a full Event Management section on the same domain/site.
 
-The portfolio uses temporary Unsplash sample images; replace them with your own work before advertising.
-Host the static files free with GitHub Pages and connect the GoDaddy domain using GitHub's custom-domain DNS instructions.
+Added:
+- Events navigation item
+- Event Management section
+- Wedding & Reception
+- Haldi & Mehendi
+- Engagement & Sangeet
+- Destination Weddings
+- Décor & Stage
+- Hospitality & Catering
+- Venue Management
+- Corporate & Private Events
+- Event Photography & Films
+- Event enquiry WhatsApp CTA
+
+Replace sample photographs with your own photos/videos later.
+
+For GitHub Pages: upload/replace index.html, style.css and assets/logo.png in the existing repository. No GoDaddy DNS changes are required if the current domain connection is already working.
