@@ -11,3 +11,5 @@ Includes:
 - Existing logo and responsive design
 
 IMPORTANT: Upload index.html, style.css, README.txt and the assets folder contents to the repository root. Do not upload the containing folder itself.
+
+YouTube: https://www.youtube.com/@exploreyourmemories-eym
